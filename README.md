@@ -12,20 +12,22 @@ We wiww awso cwose aww wepowts that pwovide nyo technyicaw infowmation. Fow youw
 
 If you awe a softwawe devewopew/wevewse enginyeew and you'we capabwe of pwoducing a .dmp fiwe fow us to anyawyze, then pwease do so and attach the fiwe to youw issue. It wiww be gweatwy appweciated. Othewwise, we wiww twy to do ouw best with the infowmation specified within the issue.
 
-## Reporting security vulnerabilities
+## Wepowting secuwity vuwnyewabiwities
 
-**We consider security vulnerabilities to be a critical matter,** and we will **reward** those that report them to us in cash prizes and other goodies. If you find a potentially dangerous security vulnerability and you want to tell us then simply contact Louka at the e-mail address written on his [profile](https://github.com/LoukaMB) describing the issue. If further communication is needed from your part, it will be requested.
+**We considew secuwity vuwnyewabiwities to be a cwiticaw mattew**, and we wiww **wewawd** those that wepowt them to us in cash pwizes and othew goodies. If you find a potentiawwy dangewous secuwity vuwnyewabiwity and you want to teww us then simpwy contact Wouka at the e-maiw addwess wwitten on his pwofiwe descwibing the issue. If fuwthew communyication is nyeeded fwom youw pawt, it wiww be wequested.
 
-Those are security vulnerabilities that warrants a reward:
-- Methods to use the software without owning a legitimate account
-- Methods to circumvent the software's security mechanisms (packing, obfuscation, detection, etc.)
-- Methods to infect a Software user via the usage of malicious Lua scripts
-- Anything related to unauthorized interaction with our online API
+Those awe secuwity vuwnyewabiwities that wawwants a wewawd:
 
-Those are security vulnerabilities that, while important, are not critical enough to be considered rewardable:
-- Ways to detect the software from a script within a game
-- Modifying or intercepting Synapse web requests
+  - Methods to use the softwawe without ownying a wegitimate account
+  - Methods to ciwcumvent the softwawe's secuwity mechanyisms (packing, obfuscation, detection, etc.)
+  - Methods to infect a Softwawe usew via the usage of mawicious Wua scwipts
+  - Anything wewated to unyauthowized intewaction with ouw onwinye API
 
-## Other communications
+Those awe secuwity vuwnyewabiwities that, whiwe impowtant, awe nyot cwiticaw enyough to be considewed wewawdabwe:
 
-If you have anything else to transmit to us, then either personally contact one of our developers via the e-mails on their profiles or communicate with them on the various Synapse chatrooms.
+  - Ways to detect the softwawe fwom a scwipt within a game
+  - Modifying ow intewcepting Synyapse web wequests
+
+## Othew communyications
+
+If you have anything ewse to twansmit to us, then eithew pewsonyawwy contact onye of ouw devewopews via the e-maiws on theiw pwofiwes ow communyicate with them on the vawious Synyapse chatwooms. (・`ω´・)  
