@@ -1,6 +1,3 @@
-<p>
-  <img align="center" src="https://vgy.me/n2LPne.png"></img>
-</p>
 ## Not Reporting Issues
 **Only report issues that can be reproduced and clearly, evidently explained.** Occasional crashes related to the nature of the software that have no clear origin will be closed and ignored. Titles must be concise and provide a summary of the crash _(`"Help crash!!"` is not a good title, neither is `"Problem!"`. `"Crash when authenticating`" or `"Invalid argument Error while using syn.cache_invalidate"` are good example of titles.)_ We will also close all reports that provide no technical information. For your report to be accepted, you _must_ specify at minimum this information:
 
