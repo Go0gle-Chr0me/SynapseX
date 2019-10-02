@@ -1,13 +1,14 @@
-## Not Reporting Issues for Shitnapse / Crashnapse
-**Only report issues that can be reproduced and clearly, evidently explained.** Occasional crashes related to the nature of the software that have no clear origin will be closed and ignored. Titles must be concise and provide a summary of the crash _(`"Help crash!!"` is not a good title, neither is `"Problem!"`. `"Crash when authenticating`" or `"Invalid argument Error while using syn.cache_invalidate"` are good example of titles.)_ We will also close all reports that provide no technical information. For your report to be accepted, you _must_ specify at minimum this information:
+## Nyot Wepowting Issues fow Shitnyapse / Cwashnyapse
 
-- Your operating system (`Windows 10`, `Windows 8`, `Windows 7`, etc.).
-- Basic hardware in formation (such as your CPU, your GPU, your motherboard, etc.) If you don't know any of those elements, we recommend using the [free version of `Speccy`](https://www.ccleaner.com/speccy) or [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) to look up your computer specifications.
-- The script you ran that crashed the software (Upload it to [`paste.sh`](https://paste.sh) or [`hastebin`](https://hastebin.com)), if applicable. Please specify that the software crashed on its own if no script was ran.
-- The circumstances of the crash/bug/issue (for example, if the game crashes uniquely when accessing a specific component/API/feature of the software then you must name this component).
-- Any additional information that you deem necessary and useful.
+**Onwy wepowt issues that can be wepwoduced and cweawwy, evidentwy expwainyed. Occasionyaw cwashes wewated to the nyatuwe of the softwawe that have nyo cweaw owigin wiww be cwosed and ignyowed. Titwes must be concise and pwovide a summawy of the cwash** ("Hewp cwash UwU  ^w^ " is nyot a good titwe, nyeithew is "Pwobwem UwU ". "Cwash when authenticating" ow "Invawid awgument Ewwow whiwe using syn.cache_invawidate" awe good exampwe of titwes.) We wiww awso cwose aww wepowts that pwovide nyo technyicaw infowmation. Fow youw wepowt to be accepted, you must specify at minyimum this infowmation:
 
-If you are a software developer/reverse engineer and you're capable of producing a `.dmp` file for us to analyze, then please do so and attach the file to your issue. It will be greatly appreciated. Otherwise, we will try to do our best with the information specified within the issue.
+    Youw opewating system (Windows 10, Windows 8, Windows 7, etc.).
+    Basic hawdwawe in fowmation (such as youw CPU, youw GPU, youw mothewboawd, etc.) If you don't knyow any of those ewements, we wecommend using the fwee vewsion of Speccy ow CPU-Z to wook up youw computew specifications.
+    The scwipt you wan that cwashed the softwawe (Upwoad it to paste.sh ow hastebin), if appwicabwe. Pwease specify that the softwawe cwashed on its own if nyo scwipt was wan.
+    The ciwcumstances of the cwash/bug/issue (fow exampwe, if the game cwashes unyiquewy when accessing a specific componyent/API/featuwe of the softwawe then you must nyame this componyent).
+    Any additionyaw infowmation that you deem nyecessawy and usefuw.
+
+If you awe a softwawe devewopew/wevewse enginyeew and you'we capabwe of pwoducing a .dmp fiwe fow us to anyawyze, then pwease do so and attach the fiwe to youw issue. It wiww be gweatwy appweciated. Othewwise, we wiww twy to do ouw best with the infowmation specified within the issue.
 
 ## Reporting security vulnerabilities
 
